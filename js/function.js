@@ -5,7 +5,7 @@ document.body.style.backgroundColor = "#"+num;
 var quoteSource=[
 {
   quote: "The most beloved action to Allah's Apostle was that which is done continuously and regularly even though it were little",
-  source:"Hadith, Sahih Bukhari",
+  source:"Hadith, Bukhari",
   category: ""
 },
 {
@@ -55,17 +55,17 @@ var quoteSource=[
 },
 {
  quote: "Religion is easy, but any one who exerts himself too much in religious devotions will get overcome by it; so you should just act rightly, and keep to the mean, and be of good cheer, and ask for Allah's help morning, evening, and a part of the night",
- source:"Hadith, Sahih Bukhari",
+ source:"Hadith, Bukhari",
   category: ""
 },
 {
  quote: "None of you has faith until he loves for his brother what he loves for himself",
- source:"Hadith, Sahih Bukhari",
+ source:"Hadith, Bukhari",
   category: ""
 },
 {
  quote: "The angel Gabriel continued to enjoin upon me good treatment of the neighbour, so much so that I thought he would make him heir to one's property",
- source:"Hadith, Sahih Bukhari",
+ source:"Hadith, Bukhari",
   category: ""
 },
 {
@@ -85,22 +85,22 @@ var quoteSource=[
 },
 {
  quote: "Protect yourselves from the fire, even with half a date",
- source:"Hadith, Sahih Bukhari",
+ source:"Hadith, Bukhari",
   category: ""
 },
 {
  quote: "Whoever does not show mercy to people, Allah will not show mercy to him",
- source:"Hadith, Sahih Muslim",
+ source:"Hadith, Muslim",
   category: ""
 },
 {
  quote: "The Muslim is the brother of his fellow Muslim. He does not wrong him, let him down or despise him",
- source:"Hadith, Sahih Muslim",
+ source:"Hadith, Muslim",
   category: ""
 },
 {
  quote: "Whoever believes in Allah and the Last Day, let him uphold ties of kinship",
- source:"Hadith, Sahih Bukhari",
+ source:"Hadith, Bukhari",
   category: ""
 },
 {
@@ -110,27 +110,27 @@ var quoteSource=[
 },
 {
  quote: "No person conceals (the fault of) another in this world but Allah will conceal him (his faults) on the day of resurrection",
- source:"Hadith, Sahih Muslim",
+ source:"Hadith, Muslim",
   category: ""
 },
 {
  quote: "The upper hand (the one that gives) is better than the lower hand (the one that receives)",
- source:"Hadith, Sahih Muslim",
+ source:"Hadith, Muslim",
   category: ""
 },
 {
  quote: "Among the best of you are those who are best in attitude",
- source:"Hadith, Sahih Bukhari",
+ source:"Hadith, Bukhari",
   category: ""
 },
 {
  quote: "Beware of stinginess, for stinginess destroyed those who came before you",
- source:"Hadith, Sahih Muslim",
+ source:"Hadith, Muslim",
   category: ""
 },
 {
  quote: "The one who tells another about something good will have a reward like that of the one who does it",
- source:"Hadith, Sahih Muslim",
+ source:"Hadith, Muslim",
   category: ""
 },
 {
@@ -140,7 +140,7 @@ var quoteSource=[
 },
 {
  quote: "Be easy-going and do not be harsh; give glad tidings and do not put people off",
- source:"Hadith, Sahih Bukhari",
+ source:"Hadith, Bukhari",
   category: ""
 },
 {
@@ -150,12 +150,12 @@ var quoteSource=[
 },
 {
  quote: "Faith has seventy-odd branches, and modesty (al-haya’) is a branch of faith",
- source:"Hadith, Sahih Muslim",
+ source:"Hadith, Muslim",
   category: ""
 },
 {
  quote: "The likeness of the one who remembers his Lord and the one who does not is that of the living and the dead",
- source:"Hadith, Sahih Bukhari",
+ source:"Hadith, Bukhari",
   category: ""
 },
 {
@@ -165,22 +165,22 @@ var quoteSource=[
 },
 {
  quote: "Whoever removes a worldly hardship from a believer, Allah will remove one of the hardships of the Day of Resurrection from him",
- source:"Hadith, Sahih Muslim",
+ source:"Hadith, Muslim",
   category: ""
 },
 {
  quote: "Whoever grants respite to (a debtor) who is in difficulty, Allah will grant him relief in this world and in the Hereafter",
- source:"Hadith, Sahih Muslim",
+ source:"Hadith, Muslim",
   category: ""
 },
 {
  quote: "Allah will help a person so long as he is helping his brother",
- source:"Hadith, Sahih Muslim",
+ source:"Hadith, Muslim",
   category: ""
 },
 {
  quote: "In (kindness to) every being there is reward",
- source:"Hadith, Sahih Bukhari",
+ source:"Hadith, Bukhari",
   category: ""
 },
 {
@@ -214,14 +214,58 @@ var quoteSource=[
   category: ""
 },
 {
- quote: "Allah has forbidden to you disobedience towards mothers",
+quote: "The best of you are those who when seen are a means of Allah being brought to mind.",
+ source:"Hadith, at-Tirmizi",
+  category: ""
+},
+{
+ quote: "Allah is Kind and He loves kindness. Kindness is not to be found in anything but that it adds to its beauty",
+ source:"Hadith, Muslim",
+  category: ""
+},
+{
+ quote: "There is a polish for everything that takes away rust; and the polish for the heart is the remembrance of Allah.",
  source:"Hadith, Bukhari",
   category: ""
-}
-,
+},
 {
- quote: "Allah has forbidden to you disobedience towards mothers",
+ quote: "The most excellent Jihad is that for the conquest of self.",
  source:"Hadith, Bukhari",
+  category: ""
+},
+{
+ quote: "Who are the learned? Those who practice what they know.",
+ source:"Hadith, Bukhari",
+  category: ""
+},
+{
+ quote: "A true Muslim is thankful to Allah in prosperity, and resigned to His will in adversity.",
+ source:"Hadith, Muslim",
+  category: ""
+},
+{
+ quote: "No man is a true believer unless he desires for his brother that, what he desires for himself.",
+ source:"Hadith, Bukhari &  Muslim",
+  category: ""
+},
+{
+ quote: "Be not like the hypocrite who, when he talks, tells lies; when he gives a promise, he breaks it; and when he is trusted, he proves dishonest.",
+ source:"Hadith, Bukhari & Muslim",
+  category: ""
+},
+{
+ quote: "Conduct yourself in this world, as if you are here to stay forever; prepare for eternity as if you have to die tomorrow.",
+ source:"Hadith, Bukhari",
+  category: ""
+},
+{
+ quote: "The Muslim is one from whose tongue and hand other Muslims are safe",
+ source:"Hadith, Muslim",
+  category: ""
+},
+{
+ quote: "The best of alms is that, which the right hand gives and the left hand knows not of",
+ source:"Hadith, Muslim",
   category: ""
 }
 ];
