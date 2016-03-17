@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Simple Reminders</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/cover.css" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="css/sweetalert.css">
+
+
+    <style type="text/css">
+      .btn-glyphicon { padding:8px; background:#ffffff; margin-right:4px; }
+      .icon-btn { padding: 1px 15px 3px 2px; border-radius:50px;}
+      #whatsapp { display: none; }
+
+      /* Smartphones ----------- */
+      @media only screen and (max-width: 760px) {
+        .mastfoot {margin-top: 80px; }
+        #whatsapp { display: inline; margin-top: 20px; }
+        #homepagethis { display: none; }
+
+
+      }
+    </style>
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+   <body onload="randomHadith()">
+
+    <div class="site-wrapper">
+
+      <div class="site-wrapper-inner">
+
+        <div class="cover-container">
+
+          <div class="masthead clearfix">
+            <div class="inner">
+              <h3 class="masthead-brand">Simple Reminders</h3>
+              <nav>
+                <ul class="nav masthead-nav">
+                  <li><a href="#" onclick="hompageThis()" id="homepagethis">Homepage This!</a></li>
+
+                </ul>
+              </nav>
+            </div>
+          </div>
+          <div class="inner cover">
+            <p class="lead" id="quoteContainer"></p>
+
+            <br>
+            <input type="hidden" id="arrNum" />
+
+
+            <p></p>
+            <p class="lead">
+              <a class="btn icon-btn btn-info" id="quoteButton" href="#" onclick="randomHadith()"><span class="glyphicon btn-glyphicon  glyphicon-share-alt img-circle text-info"></span>Next</a>
+
+            </p>
+          </div>
+
+          <a class="twitter-share-button" target="_blank" href="https://twitter.com/intent/tweet?text=simplesunnah.sg" id="tweetShare">Tweet Reminder</a> 
+
+          <span id="whatsapp"> | 
+            <a target="_blank" href="whatsapp://send?text=simplesunnah.sg" data-action="share/whatsapp/share" id="whatsappShare"> Whatsapp Reminder</a> 
+          </span>
+
+
+
+
+
+
+
+          <div class="mastfoot">
+            <div class="inner">
+              <p>Developed By <a href="mailto:tengkuhafidz@gmail.com" style="opacity: 0.6">Tengku Hafidz</a></p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/function.js"></script>
+    <script src="js/sweetalert.min.js"></script> 
+
+    <!-- Google analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-75158583-1', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+
+    
+  </body>
+</html>
