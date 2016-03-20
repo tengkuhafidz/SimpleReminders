@@ -14,6 +14,21 @@ var quoteSource=[
   category: ""
 },
 {
+  quote: "And whatever of blessings and good things you have, it is from Allah",
+  source:"Quran, 16:53",
+  category: "grateful"
+},
+{
+  quote: "If you are grateful, I will surely increase you [in favor]",
+  source:"Quran, 14:7",
+  category: "grateful"
+},
+{
+  quote: "And when My servants ask you, [O Muhammad], concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me",
+  source:"Quran, 2:187",
+  category: ""
+},
+{
   quote: "Be maintainers of justice and bearers of true witness for Allah, even if it (the truth) goes against your own selves or parents or relatives or someone who is rich or poor",
   source:"Quran, 4:135",
   category: ""
@@ -84,7 +99,7 @@ var quoteSource=[
   category: ""
 },
 {
- quote: "Protect yourselves from the fire, even with half a date",
+ quote: "Protect yourselves from the fire, even with half a date (in charity)",
  source:"Hadith, Bukhari",
   category: ""
 },
@@ -254,7 +269,7 @@ quote: "The best of you are those who when seen are a means of Allah being broug
   category: ""
 },
 {
- quote: "Conduct yourself in this world, as if you are here to stay forever; prepare for eternity as if you have to die tomorrow.",
+ quote: "Live in this world as if you will live here forever; prepare for the hereafter as if you will die tomorrow",
  source:"Hadith, Bukhari",
   category: ""
 },
@@ -267,6 +282,136 @@ quote: "The best of you are those who when seen are a means of Allah being broug
  quote: "The best of alms is that, which the right hand gives and the left hand knows not of",
  source:"Hadith, Muslim",
   category: ""
+},
+{
+ quote: "Pray more often. For every prostration that you perform Allah will raise your position by one degree",
+ source:"Hadith, Muslim",
+  category: ""
+},
+{
+ quote: "Every Deen has an innate character. The character of Islam is modesty",
+ source:"Hadith, Abu Dawud",
+  category: ""
+},
+{
+ quote: "Take advantage of five before five: your youth, before old age, your health, before sickness; your wealth, before poverty; your free time before becoming busy; and your life, before your death",
+ source:"Hadith, Ahmed",
+  category: ""
+},
+{
+ quote: "And if you could count the graces of Allah, never could you be able to count them",
+ source:"Quran, 14:34",
+  category: ""
+},
+{
+ quote: "Allah does not burden a soul more than it can bear",
+ source:"Quran, 2:286",
+  category: ""
+},
+{
+ quote: "Allah will not give mercy to anyone except those who give mercy to others",
+ source:"Hadith, Tirmizi",
+  category: ""
+},
+{
+ quote: "When you see a person who has been given more than you in money and beauty, look to those, who have been given less",
+ source:"Hadith, Muslim",
+  category: ""
+},
+{
+ quote: "Remember Me (Allah) , and I will remember you",
+ source:"Quran, 2:152",
+  category: ""
+},
+{
+ quote: "The best richness is the richness of the soul",
+ source:"Hadith, Bukhari",
+  category: ""
+},
+{
+ quote: "There are two blessings which many people lose: health and free time for doing good",
+ source:"Hadith, Bukhari",
+  category: ""
+},
+{
+ quote: "Indeed, Allah will not change the condition of a people until they change what is within themselves",
+ source:"Quran, 13:11",
+  category: ""
+},
+{
+ quote: "So verily, with hardship, there is ease",
+ source:"Quran, 94:5",
+  category: ""
+},
+{
+ quote: "He will not enter Paradise whose neighbour is not secure from his wrongful conduct",
+ source:"Hadith, Muslim",
+  category: ""
+},
+{
+ quote: "The best (Jihad) is (to speak) word of justice to an oppressive ruler",
+ source:"Hadith, Abu Dawud",
+  category: ""
+},
+{
+ quote: "A believer may achieve the status of one who regularly fasts (for religious reasons) during the day and spends the night in prayer, through his good manners",
+ source:"Hadith, Riyadhus-Solihin",
+  category: ""
+},
+{
+ quote: "Avoid jealousy, for it destroys good deeds as fire destroys wood",
+ source:"Hadith, Riyadhus-Solihin",
+  category: ""
+},
+{
+ quote: "The closest any worshipper can be to His Lord is during the last part of the night, so if you can be amongst those who remember Allah at that time, then do so",
+ source:"Hadith, Tirmizi",
+  category: ""
+},
+{
+ quote: "A supplication made between the Adhan and Iqama is not rejected",
+ source:"Hadith, Tirmizi",
+  category: "supplication"
+},
+{
+ quote: "The nearest a slave can be to his Lord is when he is prostrating, so invoke (supplicate) Allah (SWT) much in it",
+ source:"Hadith, Muslim",
+  category: "supplication"
+},
+{
+ quote: "Two will not be rejected, supplication when the Adhan (call of prayer) is being called, and at the time of the rain",
+ source:"Hadith, Abu Dawud",
+  category: "supplication"
+},
+{
+ quote: "Beware of the supplication of the unjustly treated, because there is no shelter or veil between it (the supplication of the one who is suffering injustice) and Allah (SWT)",
+ source:"Hadith, Bukhari & Muslim",
+  category: "supplication"
+},
+{
+ quote: "Three men whose dua is never rejected (by Allah) are: the fasting person until he breaks his fast (in another narration, when he breaks fast), the just ruler, and the one who is oppressed",
+ source:"Hadith, Tirmizi",
+  category: "supplication"
+},
+{
+ quote: "Three supplications will not be rejected (by Allah (SWT)), the supplication of the parent for his child, the supplication of the one who is fasting, and the supplication of the traveler",
+ source:"Hadith, Tirmizi",
+  category: "supplication"
+},
+{
+ quote: "When you visit the sick or the dead, then say good, because the angels say 'Ameen' to whatever you say",
+ source:"Hadith, Muslim",
+  category: "supplication"
+},
+{
+ quote: "Which du'a is heard (by Allah)?' He answered, 'At midnight and at the end of every obligatory prayer",
+ source:"Hadith, Tirmizi",
+  category: "supplication"
+},
+{
+ quote: "There is no believing servant who supplicates for his brother in his absence where the angels do not say, 'the same be for you'",
+ source:"Hadith, Muslim",
+  category: "supplication"
 }
 ];
 
