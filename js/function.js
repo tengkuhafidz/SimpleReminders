@@ -312,7 +312,7 @@ function hompageThis(){
   else if (/Chrome[\/\s](\d+\.\d+)/.test(navigator.userAgent)) {
     var chromeversion = new Number(RegExp.$1);
           // capture x.x portion and store as a number
-      swal({title: "Set This As Homepage!\n",   text: "Steps for your Chrome browser: \n 1) Click the menu button and then click Settings  \n 2) Under 'On startup', Select 'Open a specific page or set of pages'  \n 3) Click Set pages \n 4) Click the 'Use current pages' button \n 4) That's it!",   type: null,   confirmButtonText: "Cool" } );
+      swal({title: "Set This As Homepage!\n",   text: "Steps for your Chrome browser: \n 1) Add a chrome extension called New Tab Redirect (https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna/related)  \n 2) Click on 'Set Options'  \n 3) Type in 'simplesunnah.sg' in the input field \n 4) Click the 'Save' button  \n 4) That's it!",   type: null,   confirmButtonText: "Cool" } );
   }
   
   else if (/Opera[\/\s](\d+\.\d+)/.test(navigator.userAgent)) { 
